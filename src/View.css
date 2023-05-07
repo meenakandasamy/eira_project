@@ -1,0 +1,226 @@
+.header {
+    position: relative;
+    width: 100%;
+  height: 44px;
+    
+}
+ .searchbar {
+ position: relative;
+    width: 450px;
+    height: 37px;
+  margin-top: 17px;
+   background: #FFFFFF;
+    border-radius: 12px;
+}
+.search {
+    position: absolute;
+    position: relative;
+    width: 199px;
+    height: 15px;
+   left: 30px;
+   top: 12px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    
+ color: #999999;
+
+}
+.search-icon {
+    position: absolute;
+    right: 8.94%;
+    position: relative;
+   top:-5px;
+left: 5px;
+    color: #999999;
+}
+.out-form {
+    margin-left: 960px;
+margin-top: -32px;
+}
+.notify {
+   
+    margin-left: 990px;
+    margin-top: -33px;
+    
+    color: black;
+}
+.user-name {
+    margin-left: 1030px;
+    margin-top: -30px;
+    color: black;
+   
+}
+.person {
+    margin-left: 1120px;
+    margin-top: -25px;
+}
+.arrow-view{
+    margin-top: -65px;
+    margin-left: 20px;
+}
+.h-view{
+margin-top: 20px;
+}
+.xyz-limit{
+margin-top: 30px !important;
+}
+.button{
+    margin-left:62% ;
+    margin-top: -43px;
+    background-color: none !important;
+
+}
+.side-box{
+    margin-left: 25px;
+    margin-top: 29px;
+  
+}
+.ticket-typograpy{
+    
+width: 125px;
+height: 19px;
+margin-left: 25px !important;
+margin-top: 17px !important;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.approval-typograpy{
+   
+width: 128px;
+height: 19px;
+margin-left: 25px !important;
+margin-top: 17px !important;
+
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.activity-typograpy{
+    
+width: 110px;
+height: 19px;
+margin-left: 40px !important;
+margin-top: 17px !important;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+
+}
+.ticket-details{
+    margin-left: 260px;
+   margin-top: -210px;
+   
+}
+.ticketno-typo,.ticket-typo{
+display: inline !important;
+margin-top: 10px !important;
+}
+
+.equipment-typo{
+    margin-top: +70px !important;
+}
+.code-typo{
+    margin-top: +70px !important;
+}
+.bix-icon{
+    margin-left: 280px;
+    margin-top: -20px;
+}
+.assign-page{
+    margin-top: -30px;
+    margin-left: -10px;
+}
+.button-cancel{
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.select-option{
+    margin-top: -10px;
+}
+.enter-reason{
+    margin-top: -5px;
+   color: rgb(19, 165, 181);
+}
+
+.arrow-view{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.h-view{
+margin-top: 20px;
+}
+.xyz-limit{
+margin-top: 30px !important;
+}
+.button{
+    margin-left:65% ;
+    margin-top: -43px;
+    background-color: none !important;
+
+}
+.side-box{
+    margin-left: 25px;
+    margin-top: 29px;
+  
+}
+.ticket-typograpy{
+    
+width: 125px;
+height: 19px;
+margin-left: 25px !important;
+margin-top: 17px !important;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.approval-typograpy{
+   
+width: 128px;
+height: 19px;
+
+margin-left: 25px !important;
+margin-top: 17px !important;
+
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.activity-typograpy{
+    
+width: 110px;
+height: 19px;
+margin-left: 40px !important;
+margin-top: 17px !important;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+
+}
+.ticket-details{
+    margin-left: 260px;
+   margin-top: -210px;
+   
+}
+.ticketno-typo,.ticket-typo{
+display: inline !important;
+margin-top: 10px !important;
+}
+
+.equipment-typo{
+    margin-top: +70px !important;
+}
+.code-typo{
+    margin-top: +70px !important;
+} 
